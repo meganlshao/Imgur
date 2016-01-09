@@ -1,5 +1,7 @@
-# Course Project
-# By: Megan Shao (mshao) and Vincent Fiorentini (vfiorentini)
+# imgur.py, created by Megan Shao (mshao@hmc.edu) and Vincent Fiorentini
+# (vfiorentini@hmc.edu).
+# Runs baseline majority classifier and ordinal regression model for predicting
+# popularity of Imgur comments.
 
 import csv
 from string import punctuation

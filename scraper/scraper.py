@@ -1,6 +1,6 @@
 # scraper.py, created by Megan Shao (mshao@hmc.edu) and Vincent Fiorentini
 # (vfiorentini@hmc.edu).
-# This Python file collects and saves comment information from Imgur.
+# Collects and saves comment information from Imgur.
 # To use, replace the client_id and client_secret in getClient() and run.
 # When run, this file will collect all the comments from the most recent 
 # numGalleryPages days of most popular posts from Imgur. The results will be
