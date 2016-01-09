@@ -21,7 +21,6 @@ CROSS_VALIDATE = False
 PLOT_RESULTS = False
 
 CSV_FILE_PATH = '../data/commentFeaturesList_1448649764.csv' # ~62k samples
-CSV_FILE_PATH = '../data/commentFeaturesList_1449189704.csv' # ~2.5 mil samples
 NUM_TOTAL_SAMPLES = 10000 # assumes above file contains at least this number
 NUM_TRAIN_SAMPLES = int(NUM_TOTAL_SAMPLES * 0.9)
 CLASS_UPPER_BOUNDS = [1] # 2-class 
